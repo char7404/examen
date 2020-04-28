@@ -1,0 +1,5 @@
+el consumo del api rest es mediente el componente y clase service CLIENTE. 
+Todo el codigo gira entorno a este componente.
+Lo demas es para otrogar estilos y algunas pruebas que se fueron realizando
+
+localhost:4200:clientes
